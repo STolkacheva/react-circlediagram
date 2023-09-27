@@ -1,3 +1,6 @@
+## Демо
+https://stolkacheva.github.io/react-circlediagram/index.html
+
 ## Запуск проекта
 
 - выполнить следующую команду `npm install`
