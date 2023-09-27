@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-circlediagram/static/css/main.cc64eaaa.css",
+    "main.js": "/react-circlediagram/static/js/main.af7c7c19.js",
+    "index.html": "/react-circlediagram/index.html",
+    "main.cc64eaaa.css.map": "/react-circlediagram/static/css/main.cc64eaaa.css.map",
+    "main.af7c7c19.js.map": "/react-circlediagram/static/js/main.af7c7c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc64eaaa.css",
+    "static/js/main.af7c7c19.js"
+  ]
+}
